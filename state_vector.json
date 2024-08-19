@@ -1,0 +1,122 @@
+{
+  "state_vector": [
+    {
+      "tag": "Tour 2 ngày 1 đêm",
+      "patterns": ["tour 2 ngay 1 dem", "2n1d", "2N1D"]
+    },
+    {
+      "tag": "Tour 3 ngày 2 đêm",
+      "patterns": ["tour 3 ngay 2 dem", "3n2d", "3N2D"]
+    },
+    {
+      "tag": "Tour 4 ngày 3 đêm",
+      "patterns": ["tour 4 ngay 3 dem", "4n3d", "4N3D"]
+    },
+    {
+      "tag": "Tour 5 ngày 4 đêm",
+      "patterns": ["tour 5 ngay 4 dem", "5n4d", "5N4D"]
+    },
+    {
+      "tag": "Tour 2 ngày 1 đêm A1",
+      "patterns": ["a1", "A1", "2 ngày 1 đêm A1", "2 ngày 1 đêm a1"]
+    },
+    {
+      "tag": "Tour 2 ngày 1 đêm A2",
+      "patterns": ["2 ngày 1 đêm A2", "2 ngày 1 đêm a2", "A2", "a2"]
+    },
+    {
+      "tag": "Tour 2 ngày 1 đêm A3",
+      "patterns": ["a3", "A3", "2 ngày 1 đêm A3", "2 ngày 1 đêm a3"]
+    },
+    {
+      "tag": "Tour 3 ngày 2 đêm B1",
+      "patterns": ["b1", "B1", "3 ngày 2 đêm B1", "3 ngày 2 đêm b1"]
+    },
+    {
+      "tag": "Tour 3 ngày 2 đêm B2",
+      "patterns": ["b2", "B2", "3 ngày 2 đêm B2", "3 ngày 2 đêm b2"]
+    },
+    {
+      "tag": "Tour 3 ngày 2 đêm B3",
+      "patterns": ["b2", "B2", "3 ngày 2 đêm B2", "3 ngày 2 đêm b2"]
+    },
+    {
+      "tag": "Tour 4 ngày 3 đêm C1",
+      "patterns": ["C1", "c1", "4 ngày 3 đêm C1", "4 ngày 3 đêm c1"]
+    },
+    {
+      "tag": "Tour 4 ngày 3 đêm C2",
+      "patterns": ["C2", "c2", "4 ngày 3 đêm C2", "4 ngày 3 đêm c2"]
+    },
+    {
+      "tag": "Tour 4 ngày 3 đêm C3",
+      "patterns": ["C3", "c3", "4 ngày 3 đêm C3", "4 ngày 3 đêm c3"]
+    },
+    {
+      "tag": "Tour 5 ngày 4 đêm D1",
+      "patterns": ["D1", "d1", "5 ngày 4 đêm D1", "5 ngày 4 đêm d1"]
+    },
+    {
+      "tag": "Trẻ em ",
+      "patterns": ["tre em", "Tre em", "TRE EM", "tre EM"]
+    },
+    {
+      "tag": "Người cao tuổi",
+      "patterns": [
+        "nguoi cao tuoi ",
+        "NGUOI CAO TUOI",
+        "Ngui cao tui",
+        "NGUI CAO TUI",
+        "cao tuoi"
+      ]
+    },
+    {
+      "tag": "mỹ khuê beach",
+      "patterns": [
+        "my khue beach",
+        "bien my khue",
+        "My Khue Beach",
+        "My khue beach"
+      ]
+    },
+    {
+      "tag": "ngũ hành sơn",
+      "patterns": [
+        "Ngu Hanh Son",
+        "ngu hanh son",
+        "ngủ hành sơn",
+        "ngũ hánh sơn"
+      ]
+    },
+    {
+      "tag": "bãi bụt",
+      "patterns": ["Bai But", "BAI BUT", "bải bụt", "bãi but"]
+    },
+    {
+      "tag": "bà nà",
+      "patterns": ["Ba Na", "BA NA", "bá nà", "bà ná"]
+    },
+    {
+      "tag": "núi thần tài",
+      "patterns": [
+        "NUI THAN TAI",
+        "Nui Than Tai",
+        "nũi thần tài",
+        "núi thấn tài"
+      ]
+    },
+    {
+      "tag": "rừng dừa bãy mẫu",
+      "patterns": [
+        "RUNG DUA BAY MAU",
+        "Rung Dua Bay Mau",
+        "rừng dứa bảy mẫu",
+        "rừng dứa bãy mấu"
+      ]
+    },
+    {
+      "tag": "cù lao chàm",
+      "patterns": ["CU LAO CHAM", "Cu Lao Cham", "cù láo chàm", "cù lao chám"]
+    }
+  ]
+}
